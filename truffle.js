@@ -1,3 +1,4 @@
+// Testing Smart Contracts with Truffle
 const HDWalletProvider = require("truffle-hdwallet-provider");
 const LoomTruffleProvider = require('loom-truffle-provider');
 const mnemonic = "YOUR MNEMONIC HERE";
